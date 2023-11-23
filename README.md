@@ -7,6 +7,7 @@ REACT NATIVE
 4.Navigation:https://github.com/Error401-incognito/navigation.git
 5.TODO:https://github.com/Error401-incognito/TOdo.git
 6.Expensemanager:https://github.com/Error401-incognito/expensemanager.git
+7.calculator: https://github.com/Error401-incognito/calculator.git
 
 plugins:navigation:npm install @react-navigation/native @react-navigation/stack react-native-gesture-handler react-native-reanimated
 todo:expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/viewpager
@@ -40,10 +41,10 @@ JAVA
 3.ui ux components: https://github.com/Error401-incognito/uiuxlayout.git
 4. Layouts: https://github.com/Error401-incognito/uiuxlayout.git
 5.geolocation: https://github.com/Error401-incognito/geolocation.git
+6.counterapp:https://github.com/Error401-incognito/counterapp.git
 
 
 Library management using firebase(already available code):https://github.com/codehunter-sk/Lib_Mgt_02
 
 
 
-All experiments given in the group are completed... Assignments pending
