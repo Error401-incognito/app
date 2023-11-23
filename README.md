@@ -6,8 +6,11 @@ REACT NATIVE
 3.imperial system:https://github.com/Error401-incognito/imperial.git
 4.Navigation:https://github.com/Error401-incognito/navigation.git
 5.TODO:https://github.com/Error401-incognito/TOdo.git
+6.Expensemanager:https://github.com/Error401-incognito/expensemanager.git
 
 plugins:navigation:npm install @react-navigation/native @react-navigation/stack react-native-gesture-handler react-native-reanimated
+todo:expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/viewpager
+
 
 commands: npx create-expo-app name
 npm start/npx run android
